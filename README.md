@@ -1,2 +1,2 @@
-# sone.47github.io
+# sone47.github.io
 my blog
